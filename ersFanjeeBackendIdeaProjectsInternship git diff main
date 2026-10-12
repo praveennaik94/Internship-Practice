@@ -1,0 +1,14 @@
+[1mdiff --git a/src/DoWhile.java b/src/DoWhile.java[m
+[1mnew file mode 100644[m
+[1mindex 0000000..6c932da[m
+[1m--- /dev/null[m
+[1m+++ b/src/DoWhile.java[m
+[36m@@ -0,0 +1,8 @@[m
+[32m+[m[32mpublic class DoWhile {[m
+[32m+[m[32m    public static void main(String[] args) {[m
+[32m+[m[32m        int i = -1;[m
+[32m+[m[32m        do{[m
+[32m+[m[32m            System.out.println(i);[m
+[32m+[m[32m        }while(i > 0);[m
+[32m+[m[32m    }[m
+[32m+[m[32m}[m
